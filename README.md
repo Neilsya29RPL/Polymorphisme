@@ -25,9 +25,9 @@ Pada hasil run Tugas Praktikum diatas terdapat keluaran data yang sesuai dengan 
 Pada hasil run Tugas Tambahan diatas menghasilkan beberapa operasi bilangan diantaranya operasi penjumlahan, operasi pengurangan, operasi perkalian, dan operasi pembagian. Dengan memasukkan parameter (angka) pada method set_A() dan set_B() maka program tersebut dapat melakukan proses operasi dan memperoleh hasil operasinya. Dengan memanggil method tampil(), maka akan menghasilkan Output seperti pada gambar diatas dengan tepat dan sesuai dengan program yang telah dibuat.
 
 # Kesimpulan
-Polymorphisme dalam OOP adalah sebuah prinsip di mana class dapat memiliki banyak “bentuk” method yang berbeda-beda meskipun namanya sama. “Bentuk” di sini dapat diartikan isinya berbeda, parameternya berbeda, dan tipe datanya berbeda.
+Polymorphisme dalam OOP adalah sebuah prinsip di mana class dapat memiliki banyak “bentuk” method yang berbeda-beda meskipun namanya sama. “Bentuk” di sini dapat diartikan isinya berbeda, parameternya berbeda, dan tipe datanya berbeda.                                                                                                               
 Polymorphisme pada Java ada dua macam yaitu :
-1. Polymorphisme statis ---> Menggunakan method Overloading                                                                                                                   
+1. Polymorphisme statis ----> Menggunakan method Overloading                                                                                                                   
    Method "Overloading" terjadi pada sebuah class yang memiliki nama method yang sama tapi memiliki parameter dan tipe data yang berbeda.
 2. Polymorphisme dinamis --> Menggunakan method Overriding                                                                                                                     
    Method "Overriding" adalah sebuah kondisi dimana method yang ada di class utama (Parent class) digunakan kembali pada sub class ( class anak). 
