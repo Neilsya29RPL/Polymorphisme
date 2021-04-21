@@ -21,5 +21,5 @@ Pada hasil run  latihan 4 diatas, diperoleh warna dan hasil luas (Area) bangun R
 Pada hasil run Tugas Praktikum diatas terdapat keluaran data yang sesuai dengan settingan program yang telah dibuat. Dengan memasukkan parameter (angka) di dalam method Rect() dan divariasi dengan memanggil method union(), intersection() yang didalamnya disertasi parameter pada class TestRect, maka Output angka dan data akan tepat dan benar seperti pada gambar diatas.
 
 # Tugas Tambahan
-
+<img width="820" alt="Tugas Tambahan" src="https://user-images.githubusercontent.com/68727623/115557738-3758bf80-a2dc-11eb-81f6-5ae22e8362b3.png">
 Pada hasil run diatas menghasilkan beberapa operasi bilangan diantaranya operasi penjumlahan, operasi pengurangan, operasi perkalian, dan operasi pembagian. Dengan memasukkan parameter (angka) pada method set_A() dan set_B() maka program tersebut dapat melakukan proses operasi dan memperoleh hasil operasinya. Dengan memanggil method tampil(), maka akan menghasilkan Output seperti pada gambar diatas dengan tepat dan sesuai dengan program yang telah dibuat.
