@@ -2,7 +2,7 @@
 
 # Latihan 1
 <img width="820" alt="Latihan 1" src="https://user-images.githubusercontent.com/68727623/115554910-2a869c80-a2d9-11eb-95c8-65746cc26979.png">
-Pada gambar diatas dihasilkan run dari program latihan 1 yang didapatkan dengan cara memanggil method function(), fuel(), dan walk() yang terdapat pada class AeroPlan. Sehingga hasil run yang keluar, tepat dan sesuai dengan ketetapan program yang telah dibuat.
+Pada gambar diatas dihasilkan run dari program latihan 1 yang didapatkan dengan cara memanggil method function(), fuel(), dan walk() di class AeroPlan. Sehingga hasil run yang keluar, tepat dan sesuai dengan ketetapan program yang telah dibuat.
 
 # Latihan 2
 <img width="819" alt="Latihan 2" src="https://user-images.githubusercontent.com/68727623/115556077-7259f380-a2da-11eb-8f37-2cac3b0fe238.png">
