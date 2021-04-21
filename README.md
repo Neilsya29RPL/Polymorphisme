@@ -14,7 +14,7 @@ Pada hasil run latihan 3 diatas terdapat keluaran jumlah gaji yang dibayarkan un
 
 # Latihan 4
 <img width="820" alt="Latihan 4" src="https://user-images.githubusercontent.com/68727623/115557384-dd57fa00-a2db-11eb-8d5a-96565114e63e.png">
-Pada hasil run  latihan 4 diatas, diperoleh warna dan hasil luas (Area) bangun Rectangle dan Triangle yang telah ditetapkan dengan rumus-rumus yang ada pada method getArea(). Panjang sisi pada masing-masing bangun tersebut sesuai dengan settingan data yang telah dimasukkan kedalam method Rectangle dan Triangle pada class TestShape. Program tersebut melakukan proses perhitungan luas sesuai rumus, sehingga muncul hasil Output seperti pada gambar diatas.
+Pada hasil run latihan 4 diatas, diperoleh warna dan hasil luas (Area) bangun Rectangle dan Triangle yang telah ditetapkan dengan rumus-rumus yang ada pada method getArea(). Panjang sisi pada masing-masing bangun tersebut sesuai dengan settingan data (warna dan angka) yang telah dimasukkan kedalam method Rectangle dan Triangle yang terdapat pada class TestShape. Program tersebut melakukan proses perhitungan luas sesuai rumus, sehingga muncul hasil Output seperti pada gambar diatas.
 
 # Tugas Praktikum
 <img width="818" alt="Praktikum" src="https://user-images.githubusercontent.com/68727623/115557558-024c6d00-a2dc-11eb-9808-97d52cc8c40c.png">
