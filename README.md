@@ -17,7 +17,7 @@ Pada hasil run latihan 3 diatas terdapat keluaran jumlah gaji yang dibayarkan un
 Pada hasil run  latihan 4 diatas, diperoleh warna dan hasil luas (Area) bangun Rectangle dan Triangle yang telah ditetapkan dengan rumus-rumus yang ada pada method getArea(). Panjang sisi pada masing-masing bangun tersebut sesuai dengan settingan data yang telah dimasukkan kedalam method Rectangle dan Triangle pada class TestShape. Program tersebut melakukan proses perhitungan luas sesuai rumus, sehingga muncul hasil Output seperti pada gambar diatas.
 
 # Tugas Praktikum
-
+<img width="818" alt="Praktikum" src="https://user-images.githubusercontent.com/68727623/115557558-024c6d00-a2dc-11eb-9808-97d52cc8c40c.png">
 Pada hasil run Tugas Praktikum diatas terdapat keluaran data yang sesuai dengan settingan program yang telah dibuat. Dengan memasukkan parameter (angka) di dalam method Rect() dan divariasi dengan memanggil method union(), intersection() yang didalamnya disertasi parameter pada class TestRect, maka Output angka dan data akan tepat dan benar seperti pada gambar diatas.
 
 # Tugas Tambahan
