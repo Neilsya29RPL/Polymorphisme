@@ -27,8 +27,7 @@ Pada hasil run Tugas Tambahan diatas menghasilkan beberapa operasi bilangan dian
 # Kesimpulan
 Polymorphisme dalam OOP adalah sebuah prinsip di mana class dapat memiliki banyak “bentuk” method yang berbeda-beda meskipun namanya sama. “Bentuk” di sini dapat diartikan isinya berbeda, parameternya berbeda, dan tipe datanya berbeda. 
 
-Polymorphisme pada Java ada dua macam yaitu :
-1. Polymorphisme statis -----> Menggunakan method Overloading                                                                                                                 
+Polymorphisme pada Java ada dua macam yaitu :                                                                                                                                1. Polymorphisme statis -----> Menggunakan method Overloading                                                                                                                 
    Method "Overloading" terjadi pada sebuah class yang memiliki nama method yang sama tapi memiliki parameter dan tipe data yang berbeda.
 2. Polymorphisme dinamis --> Menggunakan method Overriding                                                                                                                     
    Method "Overriding" adalah sebuah kondisi dimana method yang ada di class utama (Parent class) digunakan kembali pada sub class ( class anak). 
