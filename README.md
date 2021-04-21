@@ -13,7 +13,7 @@ Pada hasil run latihan 2 terdapat panjang garis A dan garis B yang  diperoleh de
 Pada hasil run latihan 3 diatas terdapat keluaran jumlah gaji yang dibayarkan untuk Staf dan Direktur. Jumlah gaji staf diperoleh dari penambahan gajiStaf dan bonusStaf yang jika ditambah berjumlah 60000. Sedangkan Jumlah gaji Direktur diperoleh dari penambahan gajiDir dan tunjangan yang jika ditambah berjumlah 150000. Dengan memanggil method hitungGaji() dalam class PembayaranGaji maka akan menghasilkan Output yang sesuai seperti pada gambar ditas.
 
 # Latihan 4
-
+<img width="820" alt="Latihan 4" src="https://user-images.githubusercontent.com/68727623/115557384-dd57fa00-a2db-11eb-8d5a-96565114e63e.png">
 Pada hasil run  latihan 4 diatas, diperoleh warna dan hasil luas (Area) bangun Rectangle dan Triangle yang telah ditetapkan dengan rumus-rumus yang ada pada method getArea(). Panjang sisi pada masing-masing bangun tersebut sesuai dengan settingan data yang telah dimasukkan kedalam method Rectangle dan Triangle pada class TestShape. Program tersebut melakukan proses perhitungan luas sesuai rumus, sehingga muncul hasil Output seperti pada gambar diatas.
 
 # Tugas Praktikum
